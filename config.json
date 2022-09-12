@@ -1,8 +1,8 @@
 {
-    "ownerNumber": ["622150996855@s.whatsapp.net","622150996855@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
-    "botName": "Haruka-Mdོ ",
+    "ownerNumber": ["6281645401227@s.whatsapp.net","6285776599380@s.whatsapp.net"],
+    "ownerName": "Akbarezqy",
+    "instagram" : "https://instagram.com/hafizh.alv_",
+    "botName": "RezzBot-Md",
     "footer": "api.zeeoneofc.xyz",
     "sessionName": "session",
     "pathimg": "./media/Haruka.jpg",
@@ -13,7 +13,7 @@
     "anticall": true,
     "autorespond": false,
     "autoblok212": true,
-    "autoread": true,
+    "autoread": false,
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
